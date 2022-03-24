@@ -19,6 +19,9 @@ class Veri {
         soruMetni: '6.Fatih Sultan Mehmet hiç patates yememiştir',
         soruYaniti: true),
     Soru(soruMetni: '7.Fransızlar 80 demek için, 4 - 20 der', soruYaniti: true),
+    Soru(
+        soruMetni: '8.Güneş takvim yılı  ay takvim yılından 10 gün uzundur',
+        soruYaniti: true),
   ];
 
   String getSoruMetni() {
